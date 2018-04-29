@@ -1,0 +1,14 @@
+{
+  "name": "login-node",
+  "version": "0.0.1",
+  "description": "Membuat Login Dengan Node dan MongoDB",
+  "main": "index.js",
+  "repository": "https://github.com/mojila/login-node.git",
+  "author": "Mojila",
+  "license": "Apache 2.0",
+  "private": false,
+  "dependencies": {
+    "mongodb": "^3.0.7",
+    "npm": "^6.0.0"
+  }
+}
